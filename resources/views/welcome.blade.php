@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel ADUHSHUSHUS
+                    Laravel Ritchie
                 </div>
 
                 <div class="links">
